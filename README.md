@@ -1,2 +1,2 @@
 # KVEE-CSE
-Konvencionalni viri električne energije-Conventional sources of electric energy
+Konvencionalni viri električne energije-Vaje/Conventional sources of energy-Exercises
